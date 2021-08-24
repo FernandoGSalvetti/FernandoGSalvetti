@@ -21,8 +21,8 @@
  
 <div> 
   <a title = "fernandogsalvetti@gmail.com" href = "mailto:fernandogsalvetti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernando.salvetti@rede.ulbra.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernandogsalvetti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a  title = "fernando.salvetti@rede.ulbra.br" href = "mailto:fernando.salvetti@rede.ulbra.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a title = "fernandogsalvetti" href="https://www.linkedin.com/in/fernandogsalvetti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/FernandoGSalvetti/FernandoGSalvetti/blob/output/github-contribution-grid-snake.svg)
  
