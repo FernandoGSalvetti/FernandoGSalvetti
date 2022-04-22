@@ -1,5 +1,5 @@
 ## Olá, meu nome é Fernando Giuseppe Salvetti, sou estudante de Ciências da Computação.
-<b>Este é um GitHub pessoal onde eu subo projetos que eu estou estudando.</b>
+<b>Esse é um GitHub onde eu subo projetos pessoais, e projetos de tecnologias que estou estudando e já tenho conhecimento</b>
  <div>
   <a href="https://github.com/FernandoGSalvetti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoGSalvetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
