@@ -1,6 +1,6 @@
 # Hi there, I'm Fernando Salvetti 👋
 
-I am a **Software Engineer** and **Computer Science student** (UniRitter) with over 4 years of experience building mission-critical enterprise web applications, large-scale supply chain platforms, and real-time digital ecosystems.
+I am a **Software Engineer** and **Computer Science student** (UniRitter) with over 7 years of experience building mission-critical enterprise web applications, large-scale supply chain platforms, and real-time digital ecosystems.
 
 Experienced in high-throughput frontend architectures (virtualization, complex state management, custom design systems) and currently strengthening backend foundations with pure **PostgreSQL, Docker, and AI Engineering (LLMs & RAG)**.
 
