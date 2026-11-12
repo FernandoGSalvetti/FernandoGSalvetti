@@ -1,32 +1,30 @@
-# Hi there, I'm Fernando Giuseppe Salvetti 👋
+# Hi there, I'm Fernando Salvetti 👋
 
-I am a **Software Developer** and **Computer Science student** based in Brazil, with a technical background in Information Technology.
+I am a **Software Engineer** and **Computer Science student** (UniRitter) with over 4 years of experience building mission-critical enterprise web applications, large-scale supply chain platforms, and real-time digital ecosystems.
 
-Focused on building reliable, well-structured software and scalable applications. Passionate about object-oriented programming, clean code architecture, and continuous learning.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** Java, JavaScript, TypeScript, SQL, HTML5, CSS3
-- **Frameworks & Libraries:** Spring Boot, React, Flutter
-- **Databases & Cloud:** PostgreSQL, MySQL, Firebase
-- **Tools & Workflow:** Git, GitHub, Docker, Postman
+Experienced in high-throughput frontend architectures (virtualization, complex state management, custom design systems) and currently strengthening backend foundations with pure **PostgreSQL, Docker, and AI Engineering (LLMs & RAG)**.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Core Stack & Engineering Skills
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FernandoGSalvetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Fernando's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGSalvetti&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
-</div>
+- **Frontend Architecture:** React, TypeScript, Next.js, Zustand, Redux / Redux-Saga, Tailwind CSS, Chakra UI, WebRTC
+- **Backend & APIs:** Node.js, RESTful APIs, JWT Authentication, Microservices Architecture
+- **Databases & Data Modeling:** PostgreSQL, SQL Migrations, Multi-tenant Architecture, Firebase, Firestore
+- **Performance & Scalability:** Virtualized Grids, Heavy Client-side Data Processing, Optimistic UI, Race Condition Handling (`AbortController`)
+- **DevOps, Tooling & Testing:** Docker, Docker Compose, Git, Postman, Jest, React Testing Library
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github.com/FernandoGSalvetti/FernandoGSalvetti/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FernandoGSalvetti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/FernandoGSalvetti/FernandoGSalvetti/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
